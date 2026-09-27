@@ -1,16 +1,7 @@
-<div align="center">
 
 # Bank Customer Churn Analysis
 
 **End-to-end churn analytics project using Python (data cleaning, validation, feature engineering, EDA) and Power BI (interactive dashboard).**
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-</div>
 
 ---
 
@@ -119,16 +110,16 @@ Power BI Dashboard → Overview | Churn Drivers | Segmentation | Customer Detail
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 | Driver | Effect | Finding |
 |---|---|---|
-| 🔴 **Complaints** | Strongest driver | Churn jumps from **16.3%** (0 complaints) to **56.1%** (4 complaints) |
-| 🟢 **Number of Products** | Protective | Churn drops from **20.4%** (1 product) to **14.9%** (3 products) |
-| 🟢 **Mobile Banking / UPI** | Protective | Non-users churn at **23.2% / 20.9%** vs **17.0% / 17.3%** for users |
-| 🟠 **Tenure (Year 1)** | Early-tenure risk | First-year customers churn the most, at **21.3%** |
-| 🟠 **Premium Accounts** | Elevated risk | Highest churn among account types, at **19.2%** |
-| 🟠 **Geography** | Regional variation | Haryana (23.7%) and Gurugram (26.6%) are the highest-churn state/city |
+| **Complaints** | Strongest driver | Churn jumps from **16.3%** (0 complaints) to **56.1%** (4 complaints) |
+| **Number of Products** | Protective | Churn drops from **20.4%** (1 product) to **14.9%** (3 products) |
+| **Mobile Banking / UPI** | Protective | Non-users churn at **23.2% / 20.9%** vs **17.0% / 17.3%** for users |
+| **Tenure (Year 1)** | Early-tenure risk | First-year customers churn the most, at **21.3%** |
+| **Premium Accounts** | Elevated risk | Highest churn among account types, at **19.2%** |
+| **Geography** | Regional variation | Haryana (23.7%) and Gurugram (26.6%) are the highest-churn state/city |
 
 **Overall churn rate: 18.38%** (1,838 of 10,000 customers)
 
@@ -136,7 +127,7 @@ Power BI Dashboard → Overview | Churn Drivers | Segmentation | Customer Detail
 
 ---
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard has **4 pages**:
 
@@ -147,13 +138,6 @@ The dashboard has **4 pages**:
 | **Customer Segmentation** | Customer distribution + churn by income, balance, and loan status |
 | **Customer Details** | Searchable, single-customer drill-down profile |
 
-<!--
-Add your dashboard screenshots here, e.g.:
-![Overview Page](assets/dashboard_overview.png)
-![Churn Drivers Page](assets/dashboard_churn_drivers.png)
-![Customer Segmentation Page](assets/dashboard_segmentation.png)
-![Customer Details Page](assets/dashboard_customer_details.png)
--->
 
 ## Future Improvements
 
