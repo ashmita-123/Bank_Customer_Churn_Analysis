@@ -73,7 +73,7 @@ A full write-up of the project (methodology, code, charts, dashboard walkthrough
 
 | Category | Tools |
 |---|---|
-| Language | Python 3 |
+| Language | Python |
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn |
 | Environment | Jupyter Notebook |
 | Dashboard | Microsoft Power BI Desktop |
